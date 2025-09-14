@@ -194,5 +194,77 @@
     "summary_zh": "讲解前摇、全摇与平架设定，如何提升灵活性与稳定性，适合城市/绕桩需求。",
     "best_quote_en": "To ‘front rocker’ your skates, replace your front wheel with one that is a little smaller.",
     "best_quote_zh": "要做“前摇”，把最前面的轮子换成更小一号即可。"
+  }，
+  {
+    "id": 101,
+    "title": "Inline Skate Wheels Guide",
+    "title_zh": "直排轮滑轮子指南",
+    "source": "Inline Warehouse",
+    "link": "https://www.inlinewarehouse.com/fitlc/wheels/inline-wheel-buying-guide.html",
+    "tags": ["Gear", "Wheels"],
+    "tags_zh": ["装备", "轮子"],
+    "date": "2025-09-14",
+    "summary_en": "Covers wheel size, hardness (durometer), and profile for different skating styles such as fitness, urban, and racing.",
+    "summary_zh": "讲解轮径、硬度（邵氏A）和轮型，适配健身、城市和竞速等不同滑行需求。",
+    "best_quote_en": "Larger wheels (100mm–125mm) are faster but harder to maneuver.",
+    "best_quote_zh": "大直径轮子（100–125mm）速度更快，但灵活性降低。"
+  },
+  {
+    "id": 102,
+    "title": "Bearing Basics & Ratings",
+    "title_zh": "轴承基础与评级",
+    "source": "Inline Warehouse",
+    "link": "https://www.inlinewarehouse.com/fitlc/bearingbuyingguide.html",
+    "tags": ["Gear", "Bearings"],
+    "tags_zh": ["装备", "轴承"],
+    "date": "2025-09-14",
+    "summary_en": "Explains ABEC, ILQ, and SG rating systems, lubrication types, and tips for extending bearing life.",
+    "summary_zh": "解释 ABEC、ILQ、SG 等评级体系，润滑方式及延长轴承寿命的技巧。",
+    "best_quote_en": "ABEC ratings measure precision, not speed; maintenance matters more.",
+    "best_quote_zh": "ABEC 等级衡量的是精度而非速度，保养更为关键。"
+  },
+  {
+    "id": 103,
+    "title": "Inline Skate Frames – Materials & Mounting",
+    "title_zh": "轮滑支架——材质与安装",
+    "source": "Powerslide",
+    "link": "https://powerslide.com/blogs/technologies/trinity",
+    "tags": ["Gear", "Frames"],
+    "tags_zh": ["装备", "支架"],
+    "date": "2025-09-14",
+    "summary_en": "Overview of frame types (aluminum, carbon), lengths, and the Trinity 3-point mounting system.",
+    "summary_zh": "概述支架材质（铝合金、碳纤维）、长度及 Trinity 三点安装系统。",
+    "best_quote_en": "A longer frame gives more stability, while a shorter frame increases maneuverability.",
+    "best_quote_zh": "长支架更稳定，短支架更灵活。"
+  },
+  {
+    "id": 104,
+    "title": "Inline Skate Hardware – Screws & Spacers",
+    "title_zh": "轮滑配件——螺丝与垫片",
+    "source": "SkatePro",
+    "link": "https://www.skatepro.com.cn/c59.htm",
+    "tags": ["Gear", "Hardware"],
+    "tags_zh": ["装备", "螺丝/垫片"],
+    "date": "2025-09-14",
+    "summary_en": "Describes common axle bolts, frame screws, spacers and maintenance practices for safe skating.",
+    "summary_zh": "介绍常见的车轴螺丝、支架螺丝、垫片及安全维护方法。",
+    "best_quote_en": "Always tighten screws evenly and check them before every ride.",
+    "best_quote_zh": "每次滑行前都要检查并均匀拧紧螺丝。"
+  },
+  {
+    "id": 105,
+    "title": "Speed Skates – Boots & Setup",
+    "title_zh": "速滑鞋——鞋靴与配置",
+    "source": "World Skate",
+    "link": "https://www.worldskate.org/speed.html",
+    "tags": ["Gear", "Speed Skates"],
+    "tags_zh": ["装备", "速滑鞋"],
+    "date": "2025-09-14",
+    "summary_en": "Covers carbon boots, low-cut designs for ankle mobility, and wheel/frame setups for racing.",
+    "summary_zh": "介绍碳纤维鞋壳、低帮设计（增加脚踝活动）以及竞速用轮架组合。",
+    "best_quote_en": "Speed skates prioritize efficiency and power transfer over comfort.",
+    "best_quote_zh": "速滑鞋注重效率与力量传导，而非舒适度。"
   }
 ]
+
+
