@@ -229,4 +229,34 @@
     "source": "Grammarly Business",
     "date": "2025-07-25",
     "summary": "提供10种有效跟进措辞与短句模板，强调明确行动与时间窗。",
-    "summary_zh": "_
+    "summary_zh": "提供10种有效跟进措辞与短句模板，强调明确行动与时间窗。",
+    "summary_en": "Ten concise follow-up options that drive responses.",
+    "key_points_zh": ["用问题/下一步推动回复","避免模糊与过度客套","给出明确时间窗"],
+    "keywords": ["follow-up","phrasing","CTA"],
+    "keywords_zh": ["跟进邮件","专业语气","CTA"],
+    "tags": ["sales","communication"],
+    "tags_zh": ["高频场景","外贸沟通"],
+    "difficulty": 1,
+    "est_read_min": 5
+  },
+  {
+    "id": "hbr_ideacast_critical_thinking_2023",
+    "domain": "认知提升/商业思维",
+    "category": "认知提升",
+    "title": "3 Ways to Build Critical-Thinking Skills (Podcast)",
+    "question": "在商业环境中，如何系统训练批判性思维三要素？",
+    "url": "https://hbr.org/podcast/2023/08/3-ways-to-build-critical-thinking-skills",
+    "source": "Harvard Business Review IdeaCast",
+    "date": "2023-08-16",
+    "summary": "提出三要素：质疑假设、逻辑推理、视角多样化，并强调留出无干扰思考时间。",
+    "summary_zh": "提出三要素：质疑假设、逻辑推理、视角多样化，并强调留出无干扰思考时间。",
+    "summary_en": "Question assumptions, reason logically, diversify perspectives; protect deep-work time.",
+    "key_points_zh": ["先问对问题再找证据","识别常见逻辑谬误","多元视角降低选择性注意"],
+    "keywords": ["critical thinking","business"],
+    "keywords_zh": ["批判性思维","逻辑","元认知"],
+    "tags": ["management"],
+    "tags_zh": ["管理者能力","思维训练"],
+    "difficulty": 2,
+    "est_read_min": 25
+  }
+]
