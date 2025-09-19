@@ -10,11 +10,11 @@
       "url": "https://www.psychologicalscience.org/observer/teaching-current-directions-bias-blind-spot",
       "source": "Association for Psychological Science (APS) Observer",
       "date": "2023-08-30",
-      "summary_zh": "文章解释了人们更容易看到他人的偏见而忽视自身偏见的现象，并提供了减少偏见盲点的实践活动与干预思路。",
+      "summary_zh": "解释了人们更容易看到他人的偏见而忽视自身偏见的现象，并提供减少偏见盲点的实践方法。",
       "key_points_zh": [
         "偏见盲点是跨文化、跨场景的普遍现象",
-        "提升自我知识与元认知可缓解盲点影响",
-        "设计具体场景的“去偏见”活动比抽象讨论更有效"
+        "提升自我知识与元认知可缓解盲点",
+        "具体场景的“去偏见”活动更有效"
       ],
       "keywords_zh": ["偏见盲点", "元认知", "认知偏差", "自我觉察"],
       "difficulty": 3,
@@ -25,17 +25,17 @@
       "id": "ct_argument_mapping_vangelder_2015",
       "domain": "认知提升/批判性思维",
       "title": "Using Argument Mapping to Improve Critical Thinking Skills",
-      "question": "论证图（Argument Mapping）如何系统提升批判性思维？",
+      "question": "论证图如何系统提升批判性思维？",
       "url": "https://thinkeranalytix.org/wp-content/uploads/2018/09/TvG-Using-argument-mapping-to-improve-critical-thinking-skills-2015.pdf",
       "source": "Tim van Gelder（书章PDF）",
       "date": "2015-01-01",
-      "summary_zh": "综述多项研究：以论证图为核心的训练能显著提升推理与论证质量，优于常规课堂方法。",
+      "summary_zh": "研究显示：论证图训练能显著提升推理与论证质量，优于常规课堂方法。",
       "key_points_zh": [
-        "可视化推理结构→更快发现论证漏洞",
+        "可视化推理结构帮助发现漏洞",
         "刻意练习+反馈是关键",
-        "一学期的论证图训练≈传统课程多年累计提升"
+        "一学期训练可超越多年传统课程积累"
       ],
-      "keywords_zh": ["论证图", "批判性思维", "刻意练习", "可视化推理"],
+      "keywords_zh": ["论证图", "批判性思维", "刻意练习"],
       "difficulty": 4,
       "est_read_min": 20,
       "tags_zh": ["方法论", "学习策略"]
@@ -44,15 +44,15 @@
       "id": "learn_sci_spaced_practice_2023",
       "domain": "认知提升/学习科学",
       "title": "Spaced Practice and Working Memory",
-      "question": "为什么“间隔练习”比临时抱佛脚更有效？",
+      "question": "为什么间隔练习比临时抱佛脚更有效？",
       "url": "https://www.learningscientists.org/blog/2023/11/16",
       "source": "The Learning Scientists",
       "date": "2023-11-16",
-      "summary_zh": "概述间隔练习的机理与证据，强调把复习分散到更长时间跨度能更稳固长期记忆。",
+      "summary_zh": "概述间隔练习的机理与证据，强调分散复习能稳固长期记忆。",
       "key_points_zh": [
-        "把练习分散到时间轴上，显著优于集中练习",
-        "与“提取练习”结合效果最佳",
-        "适用于从课程复习到技能巩固的多场景"
+        "分散练习优于集中练习",
+        "与提取练习结合效果更佳",
+        "适用于复习与技能巩固"
       ],
       "keywords_zh": ["间隔效应", "长期记忆", "提取练习"],
       "difficulty": 2,
@@ -60,56 +60,18 @@
       "tags_zh": ["学习策略", "高效记忆"]
     },
     {
-      "id": "learn_sci_spacing_vs_more_retrieval_2022",
-      "domain": "认知提升/学习科学",
-      "title": "Spacing Retrieval is More Important than Extra Retrieval",
-      "question": "做更多题不如“拉开间隔”？如何安排复习频率更高效？",
-      "url": "https://www.learningscientists.org/blog/2022/9/7-1",
-      "source": "The Learning Scientists",
-      "date": "2022-09-07",
-      "summary_zh": "给出实证：适度拉开检索间隔比单纯增加检索次数更能提高短期与长期保持。",
-      "key_points_zh": [
-        "“数量”不等于“质量”——时间分布更关键",
-        "数学等需要长期保持的学科收益显著",
-        "建议配合计划表设置“回看点”"
-      ],
-      "keywords_zh": ["间隔检索", "学习效率", "记忆保持"],
-      "difficulty": 2,
-      "est_read_min": 6,
-      "tags_zh": ["学习计划", "复盘"]
-    },
-    {
-      "id": "gwern_spaced_repetition_overview",
-      "domain": "认知提升/学习系统",
-      "title": "Spaced Repetition for Efficient Learning",
-      "question": "如何用间隔重复系统性管理长期知识库？",
-      "url": "https://gwern.net/spaced-repetition",
-      "source": "Gwern",
-      "date": "持续维护",
-      "summary_zh": "长文指南，介绍间隔重复的原理、工具化实现与大规模知识维护的实战经验。",
-      "key_points_zh": [
-        "以“维护”为目标的长期记忆系统",
-        "软件调度间隔能显著节省时间",
-        "适合专业术语、公式、语言等高复用信息"
-      ],
-      "keywords_zh": ["间隔重复", "知识管理", "记忆系统"],
-      "difficulty": 4,
-      "est_read_min": 25,
-      "tags_zh": ["工具化学习", "长期主义"]
-    },
-    {
       "id": "pt_impl_intentions_2019",
       "domain": "行动力/行为改变",
       "title": "A Surprising Procrastination Fix: Implementation Intentions",
-      "question": "用“如果—那么”计划具体提升执行力、对抗拖延？",
+      "question": "如何用“如果—那么”计划对抗拖延？",
       "url": "https://www.psychologytoday.com/us/blog/chomsky-popper-turing/201902/a-surprising-procrastination-fix-implementation-intentions",
       "source": "Psychology Today",
       "date": "2019-02-28",
-      "summary_zh": "介绍“实施意图”研究：把关键情境与具体行动以IF-THEN绑定，能显著提高起步与坚持。",
+      "summary_zh": "实施意图：将关键情境与具体行动绑定，能显著提高执行力。",
       "key_points_zh": [
-        "把目标转化为情境触发的具体动作",
+        "把目标转化为情境触发的动作",
         "适合“先启动再优化”的任务",
-        "与环境线索/时间地点绑定，自动化执行"
+        "与环境线索绑定更自动化"
       ],
       "keywords_zh": ["实施意图", "拖延", "习惯", "执行力"],
       "difficulty": 2,
@@ -120,17 +82,17 @@
       "id": "pt_premortem_2021",
       "domain": "认知提升/决策",
       "title": "The Pre-Mortem Method",
-      "question": "如何用“事前验尸”（Premortem）减少乐观偏差、提升决策质量？",
+      "question": "如何用“事前验尸”提升决策质量？",
       "url": "https://www.psychologytoday.com/us/blog/seeing-what-others-dont/202101/the-pre-mortem-method",
-      "source": "Psychology Today（Gary Klein专栏）",
+      "source": "Psychology Today",
       "date": "2021-01-14",
-      "summary_zh": "把时间线前移：假设项目已失败，回溯失败原因，提前暴露风险与盲点，促进团队真诚讨论。",
+      "summary_zh": "假设项目已失败并回溯原因，提前暴露风险，促进团队真诚讨论。",
       "key_points_zh": [
-        "以“预设失败”对冲过度自信与群体思维",
-        "产出可执行的风险清单与应对计划",
-        "有助形成坦诚文化与共享心智模型"
+        "对冲过度自信与群体思维",
+        "产出风险清单与对策",
+        "形成坦诚文化与共享心智模型"
       ],
-      "keywords_zh": ["Premortem", "决策质量", "去偏见", "风险管理"],
+      "keywords_zh": ["Premortem", "决策质量", "风险管理"],
       "difficulty": 2,
       "est_read_min": 6,
       "tags_zh": ["决策工具", "团队协作"]
@@ -139,17 +101,17 @@
       "id": "nvidia_project_groot_blog_2024",
       "domain": "AI/机器人发展",
       "title": "发布 Project GR00T：人形机器人基础模型与 Isaac 平台",
-      "question": "多模态基础模型如何赋能人形机器人“理解→规划→行动”？",
+      "question": "多模态基础模型如何赋能人形机器人理解与行动？",
       "url": "https://blogs.nvidia.cn/blog/foundation-model-isaac-robotics-platform/",
-      "source": "NVIDIA 官方博客（中文）",
+      "source": "NVIDIA 官方博客",
       "date": "2024-03-18",
-      "summary_zh": "NVIDIA 公布面向人形机器人的软硬件平台与基础模型方向，使机器人可基于语言/视频/示范执行复杂任务。",
+      "summary_zh": "NVIDIA 公布人形机器人平台与基础模型，使其基于语言/视频/示范执行任务。",
       "key_points_zh": [
-        "多模态VLM/VLA+仿真数据飞轮",
-        "面向多家机器人公司生态合作",
-        "硬件SoC为生成式模型推理优化"
+        "多模态模型+仿真数据飞轮",
+        "生态合作与硬件优化",
+        "推动通用机器人研发"
       ],
-      "keywords_zh": ["GR00T", "VLA", "仿真数据", "物理智能"],
+      "keywords_zh": ["GR00T", "多模态", "机器人"],
       "difficulty": 3,
       "est_read_min": 7,
       "tags_zh": ["前沿动向", "工程平台"]
@@ -157,16 +119,16 @@
     {
       "id": "nvidia_gr00t_n1_2025_news",
       "domain": "AI/机器人发展",
-      "title": "NVIDIA Announces Isaac GR00T N1 — Open Humanoid Robot Foundation Model",
-      "question": "开源人形机器人基础模型GR00T N1带来哪些能力与生态影响？",
+      "title": "NVIDIA Announces Isaac GR00T N1",
+      "question": "开源人形机器人基础模型 GR00T N1 有哪些影响？",
       "url": "https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks",
       "source": "NVIDIA Newsroom",
       "date": "2025-03-18",
-      "summary_zh": "发布开源且可定制的 GR00T N1，配套物理引擎、合成数据蓝图与数据集，旨在加速通用机器人研发。",
+      "summary_zh": "开源可定制的 GR00T N1，配套仿真与数据生成框架，加速通用机器人研发。",
       "key_points_zh": [
-        "开源+可定制，面向产业生态",
-        "数据生成与仿真框架同步推出",
-        "与DeepMind/Disney等机构合作物理引擎"
+        "开源与定制化",
+        "数据生成与仿真框架",
+        "生态合作推动"
       ],
       "keywords_zh": ["GR00T N1", "开源模型", "仿真框架"],
       "difficulty": 3,
@@ -174,37 +136,18 @@
       "tags_zh": ["产业生态", "基础设施"]
     },
     {
-      "id": "verge_age_of_generalist_robotics_2025",
-      "domain": "AI/机器人发展",
-      "title": "Nvidia says ‘the age of generalist robotics is here’",
-      "question": "通用型机器人时代的关键里程碑是什么？",
-      "url": "https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available",
-      "source": "The Verge",
-      "date": "2025-03-19",
-      "summary_zh": "科技媒体对 GR00T N1 的解读：开放预训练模型+可定制，展示在1X等公司机器人上的通用技能迁移潜力。",
-      "key_points_zh": [
-        "系统1/系统2式动作与推理架构",
-        "Hugging Face/GitHub数据与场景开放",
-        "多家机器人公司早期接入与案例"
-      ],
-      "keywords_zh": ["通用机器人", "技能迁移", "生态开放"],
-      "difficulty": 2,
-      "est_read_min": 5,
-      "tags_zh": ["趋势解读", "媒体观察"]
-    },
-    {
       "id": "bc_email_guide_2025",
       "domain": "商务英语/写作",
-      "title": "A Guide to Writing Business Emails (With Examples)",
-      "question": "如何用清晰结构与礼貌表达写出高质量商务邮件？",
+      "title": "A Guide to Writing Business Emails",
+      "question": "如何写出清晰且礼貌的商务邮件？",
       "url": "https://www.britishcouncil.my/blog/email-writing-made-easy-guide-writing-business-emails-examples",
       "source": "British Council",
       "date": "2025-01-17",
-      "summary_zh": "提供商务邮件的开头/结尾表达、行动呼吁与礼貌措辞示例，便于快速套用与优化语气。",
+      "summary_zh": "提供商务邮件常用表达与结构化写作技巧。",
       "key_points_zh": [
-        "主题行清晰+行动导向结尾",
-        "常用结尾：Kind/Best regards 等",
-        "结构化段落提升可读性"
+        "主题行清晰",
+        "行动导向结尾",
+        "礼貌用语与结构化段落"
       ],
       "keywords_zh": ["商务邮件", "礼貌表达", "结构化写作"],
       "difficulty": 1,
@@ -214,40 +157,22 @@
     {
       "id": "grammarly_followup_2025",
       "domain": "商务英语/沟通",
-      "title": "Just Checking In: 10 Better Ways to Send a Follow-Up Email",
-      "question": "有哪些比“Just checking in”更专业的跟进表达？",
+      "title": "10 Better Ways to Send a Follow-Up Email",
+      "question": "有哪些更专业的跟进邮件表达？",
       "url": "https://www.grammarly.com/blog/business-writing/just-checking-in/",
       "source": "Grammarly Business",
       "date": "2025-07-25",
-      "summary_zh": "给出10种更有效的跟进措辞与短句模板，强调明确行动与避免含糊表达。",
+      "summary_zh": "提供10种有效跟进表达与短句模板，避免模糊。",
       "key_points_zh": [
-        "以问题/下一步推动回复",
-        "避免模糊与过度客套",
-        "保持简洁并给出具体时间窗"
+        "用问题或下一步推动回复",
+        "避免模糊表述",
+        "保持简洁并明确时间窗"
       ],
       "keywords_zh": ["跟进邮件", "专业语气", "CTA"],
       "difficulty": 1,
       "est_read_min": 5,
       "tags_zh": ["高频场景", "外贸沟通"]
-    },
-    {
-      "id": "hbr_ideacast_critical_thinking_2023",
-      "domain": "认知提升/商业思维",
-      "title": "3 Ways to Build Critical-Thinking Skills (Podcast)",
-      "question": "在商业环境中，如何系统训练批判性思维三要素？",
-      "url": "https://hbr.org/podcast/2023/08/3-ways-to-build-critical-thinking-skills",
-      "source": "Harvard Business Review IdeaCast",
-      "date": "2023-08-16",
-      "summary_zh": "提出三要素：质疑假设、逻辑推理、视角多样化；并强调留出“无干扰思考时间”。",
-      "key_points_zh": [
-        "先问对问题，再找证据",
-        "识别常见逻辑谬误与情绪干扰",
-        "多元视角降低选择性注意"
-      ],
-      "keywords_zh": ["批判性思维", "逻辑", "元认知"],
-      "difficulty": 2,
-      "est_read_min": 25,
-      "tags_zh": ["管理者能力", "思维训练"]
     }
   ]
 }
+
