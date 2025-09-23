@@ -125,7 +125,13 @@ function bind() {
 /**
  * 应用筛选条件并渲染结果
  */
-function applyAndRender() {
+function applyAndRender(```js
+// 彩蛋：输入 magic 试试看
+if (query === 'magic') {
+  alert('✨ 哇！你发现了隐藏功能！');
+}
+```
+) {
     const query = (searchEl.value || '').trim().toLowerCase();
     const lang = window.currentLang || 'zh';
 
@@ -214,7 +220,7 @@ function render(items) {
 
         // 😅 优化后的空结果提示 - 更友好、提供建议
         const emptyTexts = {
-            zh: '😅 没有找到相关内容，换个关键词试试吧， 或许会有惊喜',
+            zh: '🤔 暂时没找到，换个词试试？或许有惊喜',
             en: '😅 No relevant content found, try different keywords'
         };
 
