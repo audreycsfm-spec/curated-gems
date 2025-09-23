@@ -224,13 +224,14 @@ const counts = window.__countsForCurrentQuery || { all: raw.length };
 
     sourcesEl.innerHTML = list.map(source => {
         // 🌟 优化数据源显示文字
-        const n = counts[source] || 0;
-        const displayText = source === 'all'
-          ? (lang === 'zh'
-              ? `📚 全部 (${n})`
-              : `📚 All (${n})`)
-          : `✨ ${source} (${n})`;
-
+        ```js
+const n = counts[source] || 0;
+const displayText = source === 'all'
+  ? (lang === 'zh'
+      ? `📚 全部 (${n})`
+      : `📚 All (${n})`)
+  : `✨ ${source} (${n})`;
+```
         const isActive = source === activeSource ? 'active' : '';
 
         return `<span class="tag ${isActive}" data-source="${source}">${esc(displayText)}</span>`;
